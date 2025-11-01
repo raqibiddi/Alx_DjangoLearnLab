@@ -6,5 +6,5 @@
 
 # Output of above code
 
-'Nineteen Eigthty-Four'
+'Nineteen Eighty-Four'
 

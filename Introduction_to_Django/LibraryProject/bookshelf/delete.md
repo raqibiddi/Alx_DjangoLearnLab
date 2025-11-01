@@ -1,3 +1,5 @@
+from bookshelf.models import Book
+
 # For delete operation
 
 >>> book.delete()
